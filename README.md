@@ -1,4 +1,4 @@
-# Desafio Técnico - Parte Back End - Tela Segura
+# Chat-Room - Parte Back End
 
 
 Este repositório contém a implementação do Back End de uma aplicação de sala de bate papo.
